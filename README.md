@@ -1,7 +1,7 @@
-# Teadot-v0.0.2
+# Teadot
 
 - Author: [Billgo](http://www.yewenbiao.cn)
-- Website：[http://www.iteago.com/teadot](http://www.iteago.com/teadot)
+- Website：[http://teadot.iteago.com](http://teadot.iteago.com)
 
 ### How to used
 
