@@ -1,7 +1,0 @@
-node_modules/**
-**/node_modules/*
-docs/**
-library/**
-source/vendor/**
-example/dist/**
-example/library/**
