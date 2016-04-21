@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/form/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;;;;;QAMC","file":"index.js","sourcesContent":["import Form from './Form';\n// import FormItem from './FormItem';\n\n// Form.Item = FormItem;\n\nexport {\n\tForm\n};"]}

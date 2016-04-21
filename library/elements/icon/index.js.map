@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/icon/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;QAGC","file":"index.js","sourcesContent":["import Icon from './Icon';\n\nexport {\n\tIcon\n};"]}

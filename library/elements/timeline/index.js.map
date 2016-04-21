@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/timeline/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;AACA;;;;;;AAEA,mBAAS,IAAT;;QAGC","file":"index.js","sourcesContent":["import Timeline from './Timeline';\nimport TimelineItem from './TimelineItem';\n\nTimeline.Item = TimelineItem;\n\nexport {\n\tTimeline\n};"]}

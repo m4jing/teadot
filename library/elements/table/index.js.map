@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/table/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;QAGC","file":"index.js","sourcesContent":["import Table from './Table';\n\nexport {\n\tTable\n};"]}

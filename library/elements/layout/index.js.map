@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/layout/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;QAGC","file":"index.js","sourcesContent":["import Layout from './Layout';\n\nexport {\n\tLayout\n};"]}

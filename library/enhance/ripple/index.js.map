@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/enhance/ripple/index.js"],"names":[],"mappings":";;;;;;AAAA","file":"index.js","sourcesContent":["import Ripple from './Ripple';\n\nexport default Ripple;"]}

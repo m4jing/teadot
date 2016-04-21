@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../source/javascript/elements/footer/index.js"],"names":[],"mappings":";;;;;;;AAAA;;;;;;QAGC","file":"index.js","sourcesContent":["import Footer from './Footer';\n\nexport {\n\tFooter\n};"]}
