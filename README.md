@@ -3,14 +3,14 @@
 - Author: [Billgo](http://www.yewenbiao.cn)
 - Website：[http://teadot.iteago.com](http://teadot.iteago.com)
 
-### How to used
+## How to use
 
 Install teadot
 ```
 npm install --save-dev teadot
 ```
 
-### Example Component
+## Example Component
 
 ```javascript
 // app.js
@@ -35,5 +35,5 @@ ReactDOM.render((
 
 ```
 
-### License
+## License
 The MIT License([http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
